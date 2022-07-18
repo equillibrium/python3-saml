@@ -18,11 +18,11 @@
     "contactPerson": {
         "technical": {
             "givenName": "technical_name",
-            "emailAddress": "technical@example.com"
+            "emailAddress": "myltsev_a@tass.ru"
         },
         "support": {
             "givenName": "support_name",
-            "emailAddress": "support@example.com"
+            "emailAddress": "myltsev_a@tass.ru"
         }
     },
     "organization": {
