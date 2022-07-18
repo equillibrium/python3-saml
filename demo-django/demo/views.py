@@ -1,8 +1,8 @@
 from django.conf import settings
-from django.urls import reverse
 from django.http import (HttpResponse, HttpResponseRedirect,
                          HttpResponseServerError)
 from django.shortcuts import render
+from django.urls import reverse
 
 from onelogin.saml2.auth import OneLogin_Saml2_Auth
 from onelogin.saml2.settings import OneLogin_Saml2_Settings
