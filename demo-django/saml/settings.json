@@ -1,5 +1,5 @@
 {
-    "strict": false,
+    "strict": true,
     "debug": true,
     "sp": {
         "entityId": "https://mskt-osp-docker02.corp.tass.ru/metadata/",
