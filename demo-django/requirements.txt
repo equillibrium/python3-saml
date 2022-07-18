@@ -1,3 +1,5 @@
 Django
 Django-extensions
 python3-saml
+Werkzeug
+pyOpenSSL
