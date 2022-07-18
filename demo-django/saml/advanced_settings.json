@@ -27,9 +27,9 @@
     },
     "organization": {
         "en-US": {
-            "name": "sp_test",
+            "name": "mskt-osp-docker02.corp.tass.ru",
             "displayname": "SP test",
-            "url": "http://sp.example.com"
+            "url": "https://mskt-osp-docker02.corp.tass.ru"
         }
     }
 }
