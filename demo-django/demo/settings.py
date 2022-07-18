@@ -59,6 +59,8 @@ DATABASES = {
     }
 }
 
+FILE_UPLOAD_TEMP_DIR = '/temp/'
+
 # Internationalization
 # https://docs.djangoproject.com/en/1.6/topics/i18n/
 
