@@ -59,7 +59,7 @@ DATABASES = {
     }
 }
 
-FILE_UPLOAD_TEMP_DIR = os.path.join(BASE_DIR, 'temp/'),
+FILE_UPLOAD_TEMP_DIR = os.path.join(BASE_DIR, 'temp'),
 
 # Internationalization
 # https://docs.djangoproject.com/en/1.6/topics/i18n/
